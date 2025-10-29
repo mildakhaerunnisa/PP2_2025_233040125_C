@@ -25,7 +25,7 @@ public class tugas1 {
                
                 frame.setLayout(new BorderLayout ());
                 JLabel label = new JLabel("Label ada di Atas (NORTH)");
-                JButton button = new JButton("Tombol ada di Bawah(SHOUT)");
+                JButton button = new JButton("Tombol ada di Bawah(SOUTH)");
                 JButton center = new JButton("CENTER");
                 JButton west = new JButton ("West");
                 JButton east = new JButton ("EAST");
